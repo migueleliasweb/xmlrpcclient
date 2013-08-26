@@ -16,6 +16,5 @@
         "lib-libxml" : "*",
         "ext-xmlrpc" : "*"
     },
-    "target-dir" : "migueleliasweb/xmlrpcclient",
     "minimum-stability" : "dev"
 }
