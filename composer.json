@@ -17,7 +17,7 @@
         "ext-xmlrpc" : "*"
     },
     "autoload": {
-        "psr-0": { "migueleliasweb\\xmlrpcclient": "src/" }
+        "psr-0": { "migueleliasweb\\xmlrpcclient": "" }
     },
     "target-dir" : "migueleliasweb/xmlrpcclient",
     "minimum-stability" : "dev"
