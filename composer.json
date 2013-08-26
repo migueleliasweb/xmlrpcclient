@@ -2,7 +2,7 @@
     "name": "migueleliasweb/xmlrpcclient",
     "description": "Simple (yet powerfull) XMLRPC client library.",
     "keywords": ["xml", "rpcxml", "client"],
-    "homepage": "https://bitbucket.org/migueleliasweb/xmlrpcclient/wiki/Home",
+    "homepage": "https://github.com/migueleliasweb/xmlrpcclient",
     "type": "library",
     "license": "MIT",
     "authors": [
