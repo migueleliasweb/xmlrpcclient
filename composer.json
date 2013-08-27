@@ -16,6 +16,5 @@
         "lib-libxml" : "*",
         "ext-xmlrpc" : "*"
     },
-    "minimum-stability" : "dev",
-    "version" : "master"
+    "version" : "dev-master"
 }
